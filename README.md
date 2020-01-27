@@ -1,7 +1,7 @@
 # GEFI_Analyzer
 Fiji plugin for spatiotemporal analyses of genetically encoded fluorescent indicators in plant roots
 
-The GEFI Analyzer plugin is a Fiji plugin that that utilizes additional plugins, such as VectorGraphics2D-0.13 (https://github.com/eseifert/vectorgraphics2d) and xchart-3.5.2 (https://github.com/knowm/XChart).
+The GEFI Analyzer plugin is a Fiji plugin that utilizes additional plugins, such as VectorGraphics2D-0.13 (https://github.com/eseifert/vectorgraphics2d) and xchart-3.5.2 (https://github.com/knowm/XChart).
 
 This plugin requires processed and thresholded image stacks so that outside the specimen pixel values are NaN.
 
